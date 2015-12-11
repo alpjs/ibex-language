@@ -1,0 +1,29 @@
+{
+  "name": "ibex-language",
+  "version": "1.0.0",
+  "description": "language in ibex framework",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "make test",
+    "lint": "make lint",
+    "build": "make build",
+    "postpublish": "make post-publish",
+    "preversion": "make pre-version",
+    "version": "make version",
+    "watch": "make watch"
+  },
+  "repository": "alpjs/ibex-language",
+  "keywords": [
+    "alp",
+    "ibex"
+  ],
+  "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alpjs/ibex-language/issues"
+  },
+  "homepage": "https://github.com/alpjs/ibex-language#readme",
+  "devDependencies": {
+    "springbokjs-library": "^12.3.0"
+  }
+}
