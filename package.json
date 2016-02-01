@@ -1,6 +1,6 @@
 {
   "name": "ibex-language",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "language in ibex framework",
   "main": "lib/index.js",
   "scripts": {
